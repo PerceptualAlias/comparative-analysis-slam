@@ -1,0 +1,33 @@
+[0.552s] Invoking command in '/home/lab114/Documents/kitti_ws/kitti_converter': PYTHONPATH=/home/lab114/Documents/kitti_ws/build/kitti_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kitti_converter build --build-base /home/lab114/Documents/kitti_ws/build/kitti_converter/build install --record /home/lab114/Documents/kitti_ws/build/kitti_converter/install.log --install-scripts $base/lib/kitti_converter --single-version-externally-managed install_data
+[0.701s] running egg_info
+[0.702s] creating ../build/kitti_converter/kitti_converter.egg-info
+[0.702s] writing ../build/kitti_converter/kitti_converter.egg-info/PKG-INFO
+[0.702s] writing dependency_links to ../build/kitti_converter/kitti_converter.egg-info/dependency_links.txt
+[0.702s] writing entry points to ../build/kitti_converter/kitti_converter.egg-info/entry_points.txt
+[0.702s] writing requirements to ../build/kitti_converter/kitti_converter.egg-info/requires.txt
+[0.702s] writing top-level names to ../build/kitti_converter/kitti_converter.egg-info/top_level.txt
+[0.704s] writing manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+[0.726s] reading manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+[0.727s] writing manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+[0.727s] running build
+[0.727s] running build_py
+[0.727s] creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build
+[0.727s] creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib
+[0.727s] creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter
+[0.727s] copying kitti_converter/__init__.py -> /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter
+[0.727s] running install
+[0.727s] running install_lib
+[0.728s] creating /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter
+[0.728s] copying /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter/__init__.py -> /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter
+[0.728s] byte-compiling /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter/__init__.py to __init__.cpython-38.pyc
+[0.729s] running install_data
+[0.729s] creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index
+[0.729s] creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index
+[0.729s] creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index/packages
+[0.729s] copying resource/kitti_converter -> /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index/packages
+[0.730s] copying package.xml -> /home/lab114/Documents/kitti_ws/install/kitti_converter/share/kitti_converter
+[0.730s] running install_egg_info
+[0.730s] Copying ../build/kitti_converter/kitti_converter.egg-info to /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter-0.0.0-py3.8.egg-info
+[0.731s] running install_scripts
+[0.742s] writing list of installed files to '/home/lab114/Documents/kitti_ws/build/kitti_converter/install.log'
+[0.755s] Invoked command in '/home/lab114/Documents/kitti_ws/kitti_converter' returned '0': PYTHONPATH=/home/lab114/Documents/kitti_ws/build/kitti_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kitti_converter build --build-base /home/lab114/Documents/kitti_ws/build/kitti_converter/build install --record /home/lab114/Documents/kitti_ws/build/kitti_converter/install.log --install-scripts $base/lib/kitti_converter --single-version-externally-managed install_data

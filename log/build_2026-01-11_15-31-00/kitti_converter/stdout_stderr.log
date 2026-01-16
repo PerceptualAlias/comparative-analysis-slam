@@ -1,0 +1,15 @@
+running egg_info
+writing ../build/kitti_converter/kitti_converter.egg-info/PKG-INFO
+writing dependency_links to ../build/kitti_converter/kitti_converter.egg-info/dependency_links.txt
+writing entry points to ../build/kitti_converter/kitti_converter.egg-info/entry_points.txt
+writing requirements to ../build/kitti_converter/kitti_converter.egg-info/requires.txt
+writing top-level names to ../build/kitti_converter/kitti_converter.egg-info/top_level.txt
+package init file 'kitti_converter/__init__.py' not found (or not a regular file)
+reading manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+writing manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+error: can't copy 'resource/kitti_converter': doesn't exist or not a regular file

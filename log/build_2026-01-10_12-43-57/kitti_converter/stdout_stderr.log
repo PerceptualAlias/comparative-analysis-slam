@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/kitti_converter/kitti_converter.egg-info
+writing ../build/kitti_converter/kitti_converter.egg-info/PKG-INFO
+writing dependency_links to ../build/kitti_converter/kitti_converter.egg-info/dependency_links.txt
+writing entry points to ../build/kitti_converter/kitti_converter.egg-info/entry_points.txt
+writing requirements to ../build/kitti_converter/kitti_converter.egg-info/requires.txt
+writing top-level names to ../build/kitti_converter/kitti_converter.egg-info/top_level.txt
+writing manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+reading manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+writing manifest file '../build/kitti_converter/kitti_converter.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build
+creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib
+creating /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter
+copying kitti_converter/__init__.py -> /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter
+running install
+running install_lib
+creating /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter
+copying /home/lab114/Documents/kitti_ws/build/kitti_converter/build/lib/kitti_converter/__init__.py -> /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter
+byte-compiling /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index
+creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index
+creating /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index/packages
+copying resource/kitti_converter -> /home/lab114/Documents/kitti_ws/install/kitti_converter/share/ament_index/resource_index/packages
+copying package.xml -> /home/lab114/Documents/kitti_ws/install/kitti_converter/share/kitti_converter
+running install_egg_info
+Copying ../build/kitti_converter/kitti_converter.egg-info to /home/lab114/Documents/kitti_ws/install/kitti_converter/lib/python3.8/site-packages/kitti_converter-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/lab114/Documents/kitti_ws/build/kitti_converter/install.log'

@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: kitti-converter
+Version: 0.0.0
+Summary: KITTI to ROS 2 Converter with EKF support
+Home-page: UNKNOWN
+Maintainer: Yash Khanduja
+Maintainer-email: yash.2428020318@muj.manipal.edu
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
